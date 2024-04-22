@@ -1,6 +1,6 @@
 ![main menu](https://github.com/Arzunur/Fortune-Spin/assets/104225657/f32c7cb1-21ec-46cd-8371-8e65317344f4)
 ![game screen](https://github.com/Arzunur/Fortune-Spin/assets/104225657/00380235-0653-4f77-9d44-a55f1415f171)
 ![paylines](https://github.com/Arzunur/Fortune-Spin/assets/104225657/475747e0-a5ad-4ac9-b90d-ae21b4cd9e36)
-![line system](https://github.com/Arzunur/Fortune-Spin/assets/104225657/975c4e86-d6d0-41f1-ae0e-0a3414c79bcf)
+![line system](https://github.com/Arzunur/Fortune-Spin/assets/104225657/860f8ec0-784b-4f63-a2ff-13dd57e51563)
 ![wheel](https://github.com/Arzunur/Fortune-Spin/assets/104225657/393c70c1-8a10-42b8-9ba7-48e6c954f125)
 ![pause](https://github.com/Arzunur/Fortune-Spin/assets/104225657/abe1cfd9-93a1-4cd4-b313-0295ad3a4b6b)
